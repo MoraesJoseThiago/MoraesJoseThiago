@@ -2,7 +2,7 @@
 
 ## About :
 <br>
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif%22/%3E
+
 
 -  Software Engineering student at University of Brasilia.
 -  I’m studying on web development technologies like JavaScript/TypeScript, Node and React.
