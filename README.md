@@ -2,16 +2,13 @@
 
 ## About :
 <br>
+<img align="right" alt="GIF" height="120px" src="https://media0.giphy.com/media/yu4HttRLVqZDCQUCTM/giphy.gif?cid=ecf05e47mmyexflwlch99t436iurs70wit6tcx45vtr4q8xq&rid=giphy.gif&ct=g"/>
 
+-  I’m studying on web development technologies like JavaScript, Node and React.
+-  I’m currently learning about Backend, Frontend and Python. 
 
--  Software Engineering student at University of Brasilia.
--  I’m studying on web development technologies like JavaScript/TypeScript, Node and React.
--  I’m currently learning about Backend, Frontend and Algorithms with C++. 
--  Future Goals: Contribute more to the community and learn more about new technologies that arise.
+## Social Networks: <img alt="GIF" height="50px" src="https://media2.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e470ikxfuhbwlr6fnk4twhyz8ju27yb99n1z60bz7n0&rid=giphy.gif&ct=g"/>
 
+[<img src="https://img.shields.io/badge/-Instagram-red">](https://www.instagram.com/jose_thiagoperillo/)
+[<img src="https://img.shields.io/badge/-Twitter-blue">](https://twitter.com/SalvadorSpTauba)
 
-
-## Social Networks <img alt="GIF" height="50px" src=https://giphy.com/gifs/developer-germano-obrunogermano-eGlWh8b2oDeSuFjGM6
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22%3E](https://www.linkedin.com/in/carlos-rafael-1903771b4)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E](https://www.instagram.com/jose_thiagoperillo/) 
