@@ -31,6 +31,6 @@
 
 [<img src="https://img.shields.io/badge/-Instagram-red">](https://www.instagram.com/jose_thiagoperillo/)
 [<img src="https://img.shields.io/badge/-Twitter-blue">](https://twitter.com/SalvadorSpTauba)
-[<img src="https://img.shields.io/badge/-GitHub-black">](https://github.com/MoraesJ)
+[<img src="https://img.shields.io/badge/-GitHub-black">](https://github.com/MoraesJoseThiago)
 
 <br>
