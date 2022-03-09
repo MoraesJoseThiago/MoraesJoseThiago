@@ -1,4 +1,4 @@
-## <h1 style="color:#FF1493"> 🏊🏽‍♀️ Hi, I'm José Thiago !</h1> 
+## <h1 style="color:#FF1493"> Hi, I'm José Thiago <img alt="GIF" height="35px" src="https://c.tenor.com/L-IjxnMqxa4AAAAC/mc-kevin.gif"/> </h1> 
 
 <div>
     <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://c.tenor.com/I9qhSadf04sAAAAC/yes-paul-walker.gif" height=256px width=100%>
@@ -12,7 +12,7 @@
 * 🧠 - I’m currently learning about Backend, Frontend and Python. 
 
 &nbsp;
-## Languages and Tools
+## 🐲 Languages and Tools
 
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b7611f5b78cee6d0974fcfc7c0c723b1c600346853961&rid=giphy.gif&ct=s" alt="html5" width="128" height="128"/> </a>
@@ -32,4 +32,3 @@
 [<img src="https://img.shields.io/badge/-Instagram-red">](https://www.instagram.com/jose_thiagoperillo/)
 [<img src="https://img.shields.io/badge/-Twitter-blue">](https://twitter.com/SalvadorSpTauba)
 <br>
-<img alt="GIF" height="50px" src="https://c.tenor.com/L-IjxnMqxa4AAAAC/mc-kevin.gif"/>
