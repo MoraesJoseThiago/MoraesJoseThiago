@@ -33,4 +33,7 @@
 [<img src="https://img.shields.io/badge/-Twitter-blue">](https://twitter.com/SalvadorSpTauba)
 [<img src="https://img.shields.io/badge/-GitHub-black">](https://github.com/MoraesJoseThiago)
 
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 <br>
