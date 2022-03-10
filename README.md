@@ -22,8 +22,10 @@
     <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="sass" width="128" height="128"/> </a> 
     &nbsp;
     <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="128" height="128"/> </a> 
-     &nbsp;
-    
+     <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mqzd6H57--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/6ipUqve.gif" alt="Ruby" width="128" height="128"/>
+         
+
+      
 </p>
 &nbsp;
 
