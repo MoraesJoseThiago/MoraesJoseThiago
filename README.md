@@ -1,4 +1,4 @@
-## <h1 style="color:#FF1493"> Hi, I'm José Thiago <img alt="GIF" height="35px" src="https://c.tenor.com/L-IjxnMqxa4AAAAC/mc-kevin.gif"/> </h1> 
+## <h1 style="color:#FF1493"> Hi, I'm José Thiago</h1> 
 
 <div>
     <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://c.tenor.com/I9qhSadf04sAAAAC/yes-paul-walker.gif" height=256px width=100%>
